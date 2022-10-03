@@ -24,6 +24,13 @@ Each class has a pseudo selector for hero- and whatever suffice (-solid, -outlin
 There is no need for a "hero" / "icon" before class to setup the font.
 
 
+works great with Tailwind!
+
+```
+<span class="hero-calendar-solid text-red-500"></span>
+```
+
+
 ## Credits
 
 TailwindLabs for making the icons
